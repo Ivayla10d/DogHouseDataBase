@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ivayla11d\\DogsHouse11d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|c:\\ivayla11d\\dogshouse11d\\dogshouse11d\\view\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|solutionrelative:dogshouse11d\\view\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|c:\\ivayla11d\\dogshouse11d\\dogshouse11d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|solutionrelative:dogshouse11d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|C:\\Ivayla11d\\DogsHouse11d\\dogshouse11d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|solutionrelative:dogshouse11d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|C:\\Ivayla11d\\DogsHouse11d\\dogshouse11d\\model\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|solutionrelative:dogshouse11d\\model\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|C:\\Ivayla11d\\DogsHouse11d\\dogshouse11d\\model\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|solutionrelative:dogshouse11d\\model\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|C:\\Ivayla11d\\DogsHouse11d\\dogshouse11d\\controller\\breedscontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|solutionrelative:dogshouse11d\\controller\\breedscontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|C:\\Ivayla11d\\DogsHouse11d\\dogshouse11d\\controller\\dogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|solutionrelative:dogshouse11d\\controller\\dogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|C:\\Ivayla11d\\DogsHouse11d\\dogshouse11d\\model\\dogsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|solutionrelative:dogshouse11d\\model\\dogsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Dogs_11d_Ispanski/True/SqlTable/dbo.Breeds.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Dogs_11d_Ispanski/True/SqlTable/dbo.Dogs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|C:\\Ivayla11d\\DogsHouse11d\\dogshouse11d\\migrations\\202405140733438_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|solutionrelative:dogshouse11d\\migrations\\202405140733438_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|C:\\Ivayla11d\\DogsHouse11d\\dogshouse11d\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|solutionrelative:dogshouse11d\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|C:\\Ivayla11d\\DogsHouse11d\\dogshouse11d\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F575581-0FC2-41DF-B4C1-547CE2FE1BEE}|DogsHouse11d\\DogsHouse11d.csproj|solutionrelative:dogshouse11d\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\View\\Display.cs",
+              "RelativeDocumentMoniker": "DogsHouse11d\\View\\Display.cs",
+              "ToolTip": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\View\\Display.cs",
+              "RelativeToolTip": "DogsHouse11d\\View\\Display.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:23:24.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Form1.cs",
+              "RelativeDocumentMoniker": "DogsHouse11d\\Form1.cs",
+              "ToolTip": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Form1.cs",
+              "RelativeToolTip": "DogsHouse11d\\Form1.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAAAK4AAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:59:46.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BreedsControler.cs",
+              "DocumentMoniker": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Controller\\BreedsControler.cs",
+              "RelativeDocumentMoniker": "DogsHouse11d\\Controller\\BreedsControler.cs",
+              "ToolTip": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Controller\\BreedsControler.cs",
+              "RelativeToolTip": "DogsHouse11d\\Controller\\BreedsControler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:24:27.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DogsController.cs",
+              "DocumentMoniker": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Controller\\DogsController.cs",
+              "RelativeDocumentMoniker": "DogsHouse11d\\Controller\\DogsController.cs",
+              "ToolTip": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Controller\\DogsController.cs",
+              "RelativeToolTip": "DogsHouse11d\\Controller\\DogsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA2wDEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:10:01.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Dogs [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Dogs_11d_Ispanski/True/SqlTable/dbo.Dogs.sql",
+              "ToolTip": "dbo.Dogs [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-14T08:09:09.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Breeds [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Dogs_11d_Ispanski/True/SqlTable/dbo.Breeds.sql",
+              "ToolTip": "dbo.Breeds [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-14T08:08:54.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "202405140733438_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Migrations\\202405140733438_InitialMigration.cs",
+              "RelativeDocumentMoniker": "DogsHouse11d\\Migrations\\202405140733438_InitialMigration.cs",
+              "ToolTip": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Migrations\\202405140733438_InitialMigration.cs",
+              "RelativeToolTip": "DogsHouse11d\\Migrations\\202405140733438_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:33:56.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DogsHouse11d\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DogsHouse11d\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:31:59.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\App.config",
+              "RelativeDocumentMoniker": "DogsHouse11d\\App.config",
+              "ToolTip": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\App.config",
+              "RelativeToolTip": "DogsHouse11d\\App.config",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-14T07:14:47.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DogsDbContext.cs",
+              "DocumentMoniker": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Model\\DogsDbContext.cs",
+              "RelativeDocumentMoniker": "DogsHouse11d\\Model\\DogsDbContext.cs",
+              "ToolTip": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Model\\DogsDbContext.cs",
+              "RelativeToolTip": "DogsHouse11d\\Model\\DogsDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:31:41.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Breed.cs",
+              "DocumentMoniker": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Model\\Breed.cs",
+              "RelativeDocumentMoniker": "DogsHouse11d\\Model\\Breed.cs",
+              "ToolTip": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Model\\Breed.cs",
+              "RelativeToolTip": "DogsHouse11d\\Model\\Breed.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:31:06.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Model\\Dog.cs",
+              "RelativeDocumentMoniker": "DogsHouse11d\\Model\\Dog.cs",
+              "ToolTip": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Model\\Dog.cs",
+              "RelativeToolTip": "DogsHouse11d\\Model\\Dog.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:30:24.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Form1.cs",
+              "RelativeDocumentMoniker": "DogsHouse11d\\Form1.cs",
+              "ToolTip": "C:\\Ivayla11d\\DogsHouse11d\\DogsHouse11d\\Form1.cs [Design]",
+              "RelativeToolTip": "DogsHouse11d\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:29:24.296Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

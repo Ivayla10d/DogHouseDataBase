@@ -1,0 +1,16 @@
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\bin\Debug\DogsHouse11d.exe.config
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\bin\Debug\DogsHouse11d.exe
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\bin\Debug\DogsHouse11d.pdb
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\bin\Debug\EntityFramework.dll
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\bin\Debug\EntityFramework.xml
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\obj\Debug\DogsHouse11d.csproj.AssemblyReference.cache
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\obj\Debug\DogsHouse11d.Form1.resources
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\obj\Debug\DogsHouse11d.Properties.Resources.resources
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\obj\Debug\DogsHouse11d.csproj.GenerateResource.cache
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\obj\Debug\DogsHouse11d.csproj.CoreCompileInputs.cache
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\obj\Debug\DogsHous.9EB6CA8F.Up2Date
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\obj\Debug\DogsHouse11d.exe
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\obj\Debug\DogsHouse11d.pdb
+C:\Ivayla11d\DogsHouse11d\DogsHouse11d\obj\Debug\DogsHouse11d.Migrations.InitialMigration.resources
